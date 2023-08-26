@@ -1,6 +1,6 @@
 # Benjy's Barber Shop Website
 
-### Collabartors:
+## Collabartors:
 * Refael Shiferaw
 * Maxim Gavrilov
-* Yair Puzaylov  
+* Yair Fuzailov
